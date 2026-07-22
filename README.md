@@ -4,9 +4,9 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/zhang1huiyao?style=flat-square">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/zhang1huiyao?style=flat-square">
   <br>
-  <img src="./assets/ucas.png" height="88" alt="University of Chinese Academy of Sciences">&emsp;&emsp;
-  <img src="./assets/tsinghua.png" height="88" alt="Tsinghua University">&emsp;&emsp;
-  <img src="./assets/teleai.png" height="88" alt="TeleAI">
+  <img src="./assets/ucas.png" height="82" alt="University of Chinese Academy of Sciences">&emsp;&emsp;
+  <img src="./assets/tsinghua.png" height="82" alt="Tsinghua University">&emsp;&emsp;
+  <img src="./assets/teleai.png" height="82" alt="TeleAI">
 </h1>
 
 <h3>🏠 <b>Homepage</b>: <a href="https://zhang1huiyao.github.io/zhanghuiyao/">zhang1huiyao.github.io/zhanghuiyao</a></h3>
