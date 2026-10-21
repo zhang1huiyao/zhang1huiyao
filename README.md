@@ -1,77 +1,116 @@
 <h1 align="center">
   Hi, I'm <a href="https://zhang1huiyao.github.io/zhanghuiyao/">Huiyao Zhang (张晖耀)</a> 👋
-  <br>
+</h1>
+
+<p align="center">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/zhang1huiyao?style=flat-square">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/zhang1huiyao?style=flat-square">
-  <br>
+</p>
+
+<p align="center">
+  Master's Student at UCAS<br>
+  Multimodal Reasoning · Unified Visual Understanding &amp; Generation
+</p>
+
+<p align="center">
   <img src="./assets/ucas.png" height="82" alt="University of Chinese Academy of Sciences">&emsp;&emsp;
   <img src="./assets/tsinghua.png" height="82" alt="Tsinghua University">&emsp;&emsp;
   <img src="./assets/teleai.png" height="82" alt="TeleAI">
-</h1>
+</p>
 
-<h3>🏠 <b>Homepage</b>: <a href="https://zhang1huiyao.github.io/zhanghuiyao/">zhang1huiyao.github.io/zhanghuiyao</a></h3>
+<p align="center">
+  <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=en"><b>Homepage</b></a> ·
+  <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=zh"><b>中文主页</b></a> ·
+  <a href="https://scholar.google.com/citations?user=4-_ZxF8AAAAJ"><b>Google Scholar</b></a> ·
+  <a href="mailto:zhanghuiyao25@csu.ac.cn"><b>Email</b></a> ·
+  <a href="#contact"><b>WeChat</b></a>
+</p>
 
-Hi! I am **Huiyao Zhang (Chinese name: 张晖耀)**, a Master's student in Computer Technology at the **University of Chinese Academy of Sciences (UCAS)**, supervised by **Prof. Ye Li**. I am also a research intern at **TeleAI**, working with **Chuyi Wang** on multimodal reasoning and post-training for MLLMs, and at **THUNLP & QIYUAN Lab, Tsinghua University**, working with **Prof. Zonghao Guo** on unified vision understanding and generation. Before that, I received my B.Eng. in Mechatronic Engineering from **Guangxi University**, supervised by **Prof. Jiqing Chen**.
+Hi! I am **Huiyao Zhang (张晖耀)**, a Master's student in Computer Technology at the **University of Chinese Academy of Sciences (UCAS)**. I conduct research at the **Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences**, advised by **Ye Li**.
 
-My research spans **MLLM reasoning and post-training**, **unified vision understanding and generation**, **prompt-conditioned segmentation**, **Visual Agents**, and efficient visual architectures such as **Mamba / SSM**. I am particularly interested in building systems that can perceive, reason over, and generate visual content, as well as adapting prompt-conditioned models to reliable prompt-absent deployment.
+Since **September 2026**, I have been collaborating with **THUNLP & QIYUAN Lab, Tsinghua University**, mentored by **Zonghao Guo**, on fine-grained visual understanding and controllable editing. Previously, I interned in the **Visual Understanding R&D Center** at **TeleAI's Xingchen AGI Lab** (**March–September 2026**), mentored by **Chuyi Wang**.
 
-My research experience covers promptable segmentation, cross-modal reasoning, remote-sensing understanding, thin-structure modeling, and efficient visual architectures. My work has been submitted to venues including **AAAI, CVPR, ECCV, and IJCAI**, with two papers accepted to **ECCV 2026**.
+My research focuses on **multimodal reasoning** and **unified visual understanding and generation**. I am interested in how models use visual evidence to make well-supported decisions, and how they maintain consistent object grounding across understanding, segmentation, and image editing.
+
+## 🔬 Research Highlights
+
+- **ECCV 2026:** two accepted papers — **IP-SAM (first author)** and **FGOS-Net (second author)**.
+- **2026 National Scholarship for Master's Students.**
 
 <details>
-  <summary><b>Chinese Profile（中文个人介绍）</b></summary>
-  <br>
+  <summary><b>中文介绍 · Chinese Profile</b></summary>
+
   <p>
-    Hi！我是<b>张晖耀</b>，目前在<b>中国科学院大学</b>攻读计算机技术硕士，师从<b>李叶老师</b>；同时在 <b>TeleAI</b> 跟随<b>王楚轶老师</b>开展多模态推理与 MLLM 后训练研究，并在<b>清华大学 THUNLP & QIYUAN Lab</b> 跟随<b>郭宗昊老师</b>开展视觉理解与生成一体化大模型研究。本科毕业于<b>广西大学机械电子工程专业</b>，师从<b>陈继清老师</b>。
+    你好，我是<b>张晖耀</b>，目前在<b>中国科学院大学</b>攻读计算机技术硕士，在中国科学院空间应用工程与技术中心开展研究，由<b>李叶老师</b>指导。自 <b>2026 年 9 月</b>起，我与<b>清华大学 THUNLP 与启元实验室</b>开展<b>科研合作</b>，由<b>郭宗昊老师</b>指导；此前于 <b>2026 年 3 月至 9 月</b>在<b>中国电信 TeleAI · 星辰通用人工智能实验室</b>担任<b>视觉理解研发中心实习生</b>，由<b>王楚轶老师</b>指导。
   </p>
   <p>
-    我的研究方向主要包括<b>多模态大模型推理与后训练</b>、<b>统一视觉理解与生成</b>、<b>提示条件分割</b>、<b>视觉智能体</b>以及 <b>Mamba / SSM</b> 等高效视觉架构。我尤其关注视觉内容如何被可靠地感知、组织、推理与生成，以及依赖外部提示的视觉模型如何适配无提示的自动化部署场景。
+    我的研究主要关注<b>多模态推理</b>与<b>统一视觉理解和生成</b>。我感兴趣的是模型如何利用视觉证据作出有依据的判断，以及如何在理解、分割和图像编辑等任务中建立准确、一致的对象对应关系。
   </p>
   <p>
-    我的相关工作曾投稿至 AAAI、CVPR、ECCV 和 IJCAI 等会议，其中两篇论文被 <b>ECCV 2026</b> 接收。研究经历覆盖提示式分割、跨模态推理、遥感视觉理解、细长结构建模与高效视觉架构等方向。
+    <b>IP-SAM（第一作者）</b>与 <b>FGOS-Net（第二作者）</b>均被 <b>ECCV 2026</b> 录用；获<b>2026 年硕士研究生国家奖学金</b>。下方列出了包括 <b>CROSS-Bench 与 RIVET</b> 在内的六篇代表论文，按时间倒序排列。
   </p>
 </details>
 
-<p><i>Feel free to contact me by email if you are interested in discussing research or collaboration.</i></p>
+## 📑 Selected Publications
 
-<p>
-  <a href="mailto:zhanghuiyao25@csu.ac.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-b45309?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=4-_ZxF8AAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google-Scholar-4285f4?style=flat-square&logo=googlescholar&logoColor=white"></a>
-  <a href="https://github.com/zhang1huiyao"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-zhang1huiyao-181717?style=flat-square&logo=github"></a>
-  <a href="https://zhang1huiyao.github.io/ArgusCogito/"><img alt="ArgusCogito" src="https://img.shields.io/badge/Project-ArgusCogito-6d28d9?style=flat-square"></a>
-</p>
+> Papers are listed in reverse chronological order. See my [academic homepage](https://zhang1huiyao.github.io/zhanghuiyao/#publications) or [Google Scholar](https://scholar.google.com/citations?user=4-_ZxF8AAAAJ) for the full research context.
 
-# 📑 Papers
+- **Visual Evidence Under Cross-Examination: Evaluating and Controlling Decision-Level Evidence Use in Vision-Language Models**<br>
+  arXiv preprint, 2026 · **First author**<br>
+  CROSS-Bench and RIVET examine whether visual evidence acts on the answer candidate it actually supports.<br>
+  [[Paper](https://arxiv.org/pdf/2610.09550)] [[arXiv](https://arxiv.org/abs/2610.09550)]
 
-> See [Google Scholar](https://scholar.google.com/citations?user=4-_ZxF8AAAAJ) or my [homepage](https://zhang1huiyao.github.io/zhanghuiyao/#publications) for the latest information.
-
-## First / Co-first Author
-
-- **[ECCV 2026]** **IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment** — First author<br>
-  [[Paper](https://arxiv.org/pdf/2603.27250)] [[arXiv](https://arxiv.org/abs/2603.27250)]
-
-- **[arXiv 2025]** **ArgusCogito: Chain-of-Thought for Cross-Modal Synergy and Omnidirectional Reasoning in Camouflaged Object Segmentation** — Co-first author<br>
-  [[Paper](https://arxiv.org/pdf/2508.18050)] [[Project Page](https://zhang1huiyao.github.io/ArgusCogito/)]
-
-## Other Publications
-
-- **[ECCV 2026]** **Bridging the Geometry Mismatch: Frequency-Aware Anisotropic Serialization for Thin-Structure SSMs** — Major contributor<br>
+- **Bridging the Geometry Mismatch: Frequency-Aware Anisotropic Serialization for Thin-Structure SSMs**<br>
+  ECCV 2026 · **Second author**<br>
+  FGOS-Net studies geometry-aware state-space modeling to preserve the directional continuity of thin structures.<br>
   [[Paper](https://arxiv.org/pdf/2603.28503)] [[arXiv](https://arxiv.org/abs/2603.28503)]
 
-- **[arXiv 2026]** **Fluxamba: Topology-Aware Anisotropic State Space Models for Geological Lineament Segmentation** — Major contributor<br>
+- **IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment**<br>
+  ECCV 2026 · **First author**<br>
+  IP-SAM adapts SAM2 to automatic segmentation without external prompts, with evaluations spanning camouflaged objects, salient objects, and medical polyps.<br>
+  [[Paper](https://arxiv.org/pdf/2603.27250)] [[arXiv](https://arxiv.org/abs/2603.27250)]
+
+- **Fluxamba: Topology-Aware Anisotropic State Space Models for Geological Lineament Segmentation in Multi-Source Remote Sensing**<br>
+  arXiv preprint, 2026 · **Second author**<br>
+  Fluxamba studies topology-aware state-space modeling for geological lineament segmentation across planetary and terrestrial imagery.<br>
   [[Paper](https://arxiv.org/pdf/2601.17288)] [[arXiv](https://arxiv.org/abs/2601.17288)]
 
-- **[CEA 2024 · SCI Q1]** **YOLOv8-GP: Efficient and Lightweight Grape and Picking-Point Synchronous Detection Model Based on Keypoint Detection**<br>
+- **ArgusCogito: Chain-of-Thought for Cross-Modal Synergy and Omnidirectional Reasoning in Camouflaged Object Segmentation**<br>
+  arXiv preprint, 2025 · **Co-first author**<br>
+  ArgusCogito combines cross-modal chain-of-thought reasoning with iterative mask refinement for camouflaged objects, medical images, and camouflaged plants.<br>
+  [[Paper](https://arxiv.org/pdf/2508.18050)] [[Project Page](https://zhang1huiyao.github.io/ArgusCogito/)]
+
+- **Efficient and lightweight grape and picking point synchronous detection model based on key point detection**<br>
+  Computers and Electronics in Agriculture · SCI Q1 · 2024 · **Coauthor**<br>
+  YOLOv8-GP jointly detects grape clusters and picking points for robotic harvesting.<br>
   [[Paper](https://doi.org/10.1016/j.compag.2024.108612)]
 
-# 🧪 Projects
+## 🌿 Beyond Research
 
-- **ArgusCogito** — Cross-modal chain-of-thought reasoning for camouflaged object segmentation: [Project Page](https://zhang1huiyao.github.io/ArgusCogito/)
-- **Academic Homepage** — Source for my personal academic website: [Repository](https://github.com/zhang1huiyao/zhanghuiyao) <img alt="Homepage repository stars" src="https://img.shields.io/github/stars/zhang1huiyao/zhanghuiyao?style=flat-square">
+Outside research, I enjoy quiet time with a pot of tea, books, films and anime, running, and weekend walks with friends. Lionel Messi has long been a source of inspiration for me.
+
+## Contact
+
+I am happy to connect over research, ideas, or shared interests. Email me at **[zhanghuiyao25@csu.ac.cn](mailto:zhanghuiyao25@csu.ac.cn)**, or add me on WeChat below.
+
+<details>
+  <summary><b>WeChat / 微信</b></summary>
+
+  <p align="center">
+    <a href="https://zhang1huiyao.github.io/zhanghuiyao/assets/contact/wechat-card.png">
+      <img src="https://zhang1huiyao.github.io/zhanghuiyao/assets/contact/wechat-card.png" width="240" alt="Huiyao Zhang's WeChat contact card">
+    </a>
+  </p>
+  <p>
+    Scan to add me on WeChat; please include a brief introduction.<br>
+    扫码添加微信，欢迎简单介绍一下自己。
+  </p>
+</details>
 
 ---
 
 <p align="center">
-  <a href="https://zhang1huiyao.github.io/zhanghuiyao/">Homepage</a> ·
-  <a href="https://scholar.google.com/citations?user=4-_ZxF8AAAAJ">Google Scholar</a> ·
-  <a href="mailto:zhanghuiyao25@csu.ac.cn">Email</a>
+  <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=en">English Homepage</a> ·
+  <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=zh">中文学术主页</a> ·
+  <a href="https://scholar.google.com/citations?user=4-_ZxF8AAAAJ">Google Scholar</a>
 </p>
