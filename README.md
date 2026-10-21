@@ -22,7 +22,7 @@
   <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=en"><b>Homepage</b></a> ·
   <a href="https://zhang1huiyao.github.io/zhanghuiyao/?lang=zh"><b>中文主页</b></a> ·
   <a href="https://scholar.google.com/citations?user=4-_ZxF8AAAAJ"><b>Google Scholar</b></a> ·
-  <a href="mailto:zhanghuiyao25@csu.ac.cn"><b>Email</b></a> ·
+  <a href="mailto:zhanghuiyao25@mails.ucas.ac.cn"><b>Email</b></a> ·
   <a href="#contact"><b>WeChat</b></a>
 </p>
 
@@ -91,7 +91,7 @@ Outside research, I enjoy quiet time with a pot of tea, books, films and anime, 
 
 ## Contact
 
-I am happy to connect over research, ideas, or shared interests. Email me at **[zhanghuiyao25@csu.ac.cn](mailto:zhanghuiyao25@csu.ac.cn)**, or add me on WeChat below.
+I am happy to connect over research, ideas, or shared interests. Email me at **[zhanghuiyao25@mails.ucas.ac.cn](mailto:zhanghuiyao25@mails.ucas.ac.cn)**, or add me on WeChat below.
 
 <details>
   <summary><b>WeChat / 微信</b></summary>
